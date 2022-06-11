@@ -1,7 +1,7 @@
 <h1 align="center">👋Hi, there it's me
 PALLAVI LANGHE.</h1>
 <p align="center" >I am pursuing B. Tech from Dr. Vishwanath Karad MIT World Peace University (MIT-WPU). I completed my Diploma from Government Polytechnic, Awasari( Khurd ), Pune. I completed my schooling from Vidyadham Prashala Shirur, Pune in the year 2017. I am enthusiastic towards learning and exploring new technology 📱💻</p>
-<p align="center"> Tech amazes me📳📴. I am currently working on web development and flutter development projects🗃 </p>
+<p align="center">I am currently working on web development and Software development projects🗃 </p>
 <p align="center" style="margin: 0 19%";> I love doodling🖍, painting🖌 and reading story books📚. </p>
 <p align="center" style="margin: 0 19%";><a href="https://profile-summary-for-github.com/user/Pallavi-Langhe"><strong>Click to see detailed PROFILE STATISTICS.</strong></a></p>
 
