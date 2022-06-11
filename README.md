@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center">👋Hi, there it's me
+PALLAVI LANGHE.</h1>
+<p align="center" >I am pursuing B. Tech from Dr. Vishwanath Karad MIT World Peace University (MIT-WPU). I completed my Diploma from Government Polytechnic, Awasari( Khurd ), Pune. I completed my schooling from Vidyadham Prashala Shirur, Pune in the year 2017. I am enthusiastic towards learning and exploring new technology 📱💻</p>
+<p align="center"> Tech amazes me📳📴. I am currently working on web development and flutter development projects🗃 </p>
+<p align="center" style="margin: 0 19%";> I love doodling🖍, painting🖌 and reading story books📚. </p>
+<p align="center" style="margin: 0 19%";><a href="https://profile-summary-for-github.com/user/Pallavi-Langhe"><strong>Click to see detailed PROFILE STATISTICS.</strong></a></p>
 
-<!--
-**Pallavi-Langhe/Pallavi-Langhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/prathmeshsd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prathmeshsd/" height="30" width="40" /></a>
+</p>
 
-Here are some ideas to get you started:
+<h3 align="left">Languages and Tools</h3>
+<p align="left">
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pallavi-Langhe&show_icons=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Pallavi-Langhe) 
