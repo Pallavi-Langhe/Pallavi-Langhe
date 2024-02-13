@@ -5,7 +5,7 @@ PALLAVI LANGHE.</h1>
 • Passionate about • product development • exploring technologies <br/>
 • Skills: Javascript, React , Redux, Nodejs <br/>
 • I'm currently exploring Typescript <br/>
-• My Website : https://pallavi-langhe.netlify.app <br/>
+• My Website : https://pallavi-langhe.github.io <br/>
 </p>
 </div>
 
